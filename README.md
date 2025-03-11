@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yash.ragubasnhi2024@nst.rishihoodedu.in.com**
 
-- 📄 Know about my experiences [file:///Users/yashraghubanshi/Downloads/Resume-Yash%20Raghubanshi%20(2).pdf](file:///Users/yashraghubanshi/Downloads/Resume-Yash%20Raghubanshi%20(2).pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_Kw5eZ4n_3orHGelsbfHGSa-oKKXkMZ1/view](https://drive.google.com/file/d/1_Kw5eZ4n_3orHGelsbfHGSa-oKKXkMZ1/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
