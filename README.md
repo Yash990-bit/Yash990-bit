@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash990-bit&label=Profile%20views&color=0e75b6&style=flat" alt="yash990-bit" /> </p>
 
-- 🔭 I’m currently working on [Golf CLone](https://boisterous-kangaroo-adaeb8.netlify.app/)
+- 🔭 I’m currently working on [Netscope](https://joyful-genie-5a3d68.netlify.app/)
 
 - 🌱 I’m currently learning **React, DSA**
 
