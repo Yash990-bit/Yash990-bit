@@ -24,6 +24,7 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/yash_900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/yash_900" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/yash_ragh_08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yash_ragh_08/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/yashraghub54zo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/yashraghub54zo/" height="30" width="40" /></a>
+<a href="https://www.figma.com/@yourusername" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" alt="figma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
