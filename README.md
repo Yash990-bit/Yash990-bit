@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA,HTML,CSS**,React.js
 
-- 📫 How to reach me **yash.ragubasnhi2024@nst.rishihoodedu.in.com**
+- 📫 How to reach me **yash.raghubanshi2024@nst.rishihoodedu.in.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_Kw5eZ4n_3orHGelsbfHGSa-oKKXkMZ1/view](https://drive.google.com/file/d/1_Kw5eZ4n_3orHGelsbfHGSa-oKKXkMZ1/view)
 
