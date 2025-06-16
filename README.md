@@ -24,11 +24,10 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/yash_900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/yash_900" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/yash_ragh_08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yash_ragh_08/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/yashraghub54zo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/yashraghub54zo/" height="30" width="40" /></a>
-<a href="https://www.figma.com/@yourusername" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="orange">
-    <path d="M15 12a3 3 0 1 0-3-3v3h3zm-3 0H9a3 3 0 0 0 0 6h3v-6zm0-9H9a3 3 0 0 0 0 6h3V3zm1.5 0H15a3 3 0 0 1 0 6h-1.5V3zM12 21a3 3 0 0 1 0-6h0v6z"/>
-  </svg>
-</a>
+<a href="https://www.figma.com/@yourusername" target="blank">
+    <img align="center" color="orange" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" alt="figma" height="30" width="40" />
+  </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
