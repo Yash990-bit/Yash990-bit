@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://serene-pegasus-f734a1.netlify.app/](https://serene-pegasus-f734a1.netlify.app/)
 
-- 💬 Ask me about **DSA,HTML,CSS**
+- 💬 Ask me about **DSA,HTML,CSS**,React.js
 
 - 📫 How to reach me **yash.raghubanshi2024@nst.rishihoodedu.in.com**
 
