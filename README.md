@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash990-bit&label=Profile%20views&color=0e75b6&style=flat" alt="yash990-bit" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://serene-pegasus-f734a1.netlify.app/)
+- 🔭 I’m currently working on [EstateEdge](https://benevolent-madeleine-e6ac6d.netlify.app/)
 
 - 🌱 I’m currently learning **React, DSA**
 
-- 👨‍💻 All of my projects are available at [https://serene-pegasus-f734a1.netlify.app/](https://serene-pegasus-f734a1.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/yash990-bit/projects](https://app.netlify.com/teams/yash990-bit/projects)
 
-- 💬 Ask me about **DSA,HTML,CSS**
+- 💬 Ask me about **DSA,HTML,CSS**,React.js
 
 - 📫 How to reach me **yash.ragubasnhi2024@nst.rishihoodedu.in.com**
 
