@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://serene-pegasus-f734a1.netlify.app/)
 
-- 🌱 I’m currently learning **React, DSA**
+- 🌱 I’m currently learning **Express.Js, Advamced DSA , DBMS(My SQL)**
 
 - 👨‍💻 All of my projects are available at [https://serene-pegasus-f734a1.netlify.app/](https://serene-pegasus-f734a1.netlify.app/)
-
+ 
 - 💬 Ask me about **DSA,HTML,CSS**
 
 - 📫 How to reach me **yash.ragubasnhi2024@nst.rishihoodedu.in.com**
