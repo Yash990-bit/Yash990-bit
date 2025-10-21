@@ -12,9 +12,6 @@
 - 💬 Ask me about **DSA,HTML,CSS**
 
 - 📫 How to reach me **yash.ragubasnhi2024@nst.rishihoodedu.in.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_Kw5eZ4n_3orHGelsbfHGSa-oKKXkMZ1/view](https://drive.google.com/file/d/1_Kw5eZ4n_3orHGelsbfHGSa-oKKXkMZ1/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/yash-raghubanshi-ba9ba630b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yash-raghubanshi-ba9ba630b" height="30" width="40" /></a>
