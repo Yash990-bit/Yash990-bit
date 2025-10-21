@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [My Skill Sync]()
 
-- 🌱 I’m currently learning **Express.Js, Advamced DSA , DBMS(My SQL)**
+- 🌱 I’m currently learning **Express.Js, Advanced DSA , DBMS(My SQL)**
 
 - 👨‍💻 All of my projects are available at [https://serene-pegasus-f734a1.netlify.app/](https://serene-pegasus-f734a1.netlify.app/)
  
-- 💬 Ask me about **DSA,HTML,CSS**
+- 💬 Ask me about **DSA,DBMS(MY SQL),Express.js**
 
 - 📫 How to reach me **yash.ragubasnhi2024@nst.rishihoodedu.in.com**
 <h3 align="left">Connect with me:</h3>
