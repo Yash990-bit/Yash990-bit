@@ -1,64 +1,66 @@
 <div align="center">
-  
+
   <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Yash%20Raghubanshi&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Specialist&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=230&section=header&text=Yash%20Raghubanshi&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=62" />
 
-  <br /> <br />
+  <br/><br/>
 
-  <!-- Intro -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Building+Aesthetic+Web+Apps;Solving+Complex+Problems;Exploring+New+Technologies" alt="Typing SVG" />
-  </a>
+  <!-- Typing Intro -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2EC4F7&center=true&vCenter=true&width=600&lines=Crafting+Beautiful+Web+Experiences;Full+Stack+Development+Enthusiast;Lifelong+Learner+%26+Problem+Solver;Bringing+Ideas+to+Life+with+Code" />
 
-  <br />
+  <br/>
 
   <p>
-    I am a passionate <b>Frontend Developer</b> crafting beautiful and functional user interfaces.
+    Passionate <b>Full Stack Developer</b> who loves building scalable, aesthetic and high-performance digital experiences.
   </p>
-  
+
   <p>
     📫 <b>yash.raghubanshi2024@gmail.com</b>
   </p>
 
   <!-- Socials -->
   <p>
-    <a href="https://linkedin.com/in/yash-raghubanshi-ba9ba630b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/whyash7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://leetcode.com/u/yash_ragh_08/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+    <a href="https://linkedin.com/in/yash-raghubanshi-ba9ba630b" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/whyash7/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://leetcode.com/u/yash_ragh_08/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+    </a>
   </p>
 
-  <br />
+  <br/>
 
   <!-- Tech Stack -->
   <h2>🛠️ Tech Stack</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,nodejs,express,mysql,mongodb,python,git,figma,postman&perline=7" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,html,css,js,ts,tailwind,python,git,figma,postman&perline=8" />
 
-  <br /> <br />
+  <br/><br/>
 
-  <!-- Stats -->
-  <h2>📊 GitHub Stats</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=yash990-bit&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36" alt="Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash990-bit&theme=dracula&hide_border=true&background=282a36" alt="Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yash990-bit&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&bg_color=282a36" alt="Languages" />
+  <!-- GitHub Stats -->
+  <h2>📊 GitHub Insights</h2>
 
-  <br /> <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=yash990-bit&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yash990-bit&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash990-bit&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <br/><br/>
 
   <!-- Competitive Programming -->
-  <h2>🏆 Competitive Profiles</h2>
+  <h2>🏆 Competitive Programming Profiles</h2>
   <p>
-    <a href="https://www.codechef.com/users/yash_code_07"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white" /></a>
-    <a href="https://codeforces.com/profile/yash_900"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white" /></a>
-    <a href="https://www.hackerrank.com/profile/yash_raghubansh1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" /></a>
-    <a href="https://www.geeksforgeeks.org/user/yashraghub54zo/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D35?style=flat-square&logo=geeksforgeeks&logoColor=white" /></a>
+    <a href="https://www.codechef.com/users/yash_code_07"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+    <a href="https://codeforces.com/profile/yash_900"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+    <a href="https://www.hackerrank.com/profile/yash_raghubansh1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+    <a href="https://www.geeksforgeeks.org/user/yashraghub54zo/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   </p>
 
-  <br />
+  <br/>
 
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=0,2,30&height=120" />
 
 </div>
