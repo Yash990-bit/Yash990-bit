@@ -17,7 +17,7 @@
   </p>
   
   <p>
-    📫 <b>yash.raghubanshi2024@gmail.com</b>
+     <b>yash.raghubanshi2024@nst.rishihood.edu.in</b>
   </p>
 
   <!-- Socials -->
@@ -30,15 +30,15 @@
   <br />
 
   <!-- Tech Stack -->
-  <h2>🛠️ Tech Stack</h2>
+  <h2> Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,nodejs,express,mysql,mongodb,python,git,figma,postman&perline=7" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,nodejs,express,mysql,mongodb,python,git,figma,typescript,github,postman&perline=7" />
   </a>
 
   <br /> <br />
 
   <!-- Stats -->
-  <h2>📊 GitHub Stats</h2>
+  <h2> GitHub Stats</h2>
   
   <img src="https://github-readme-stats.vercel.app/api?username=yash990-bit&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36" alt="Stats" />
   <br />
@@ -49,7 +49,7 @@
   <br /> <br />
 
   <!-- Competitive Programming -->
-  <h2>🏆 Competitive Profiles</h2>
+  <h2> Competitive Profiles</h2>
   <p>
     <a href="https://www.codechef.com/users/yash_code_07"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white" /></a>
     <a href="https://codeforces.com/profile/yash_900"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white" /></a>
