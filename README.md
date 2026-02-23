@@ -17,7 +17,7 @@
   </p>
   
   <p>
-    📫 <b>yash.raghubanshi2024@gmail.com</b>
+    📫 <b>yash.raghubanshi2024@nst.rishihood.edu.in</b>
   </p>
 
 
@@ -56,14 +56,6 @@
   </picture>
   
   <br /> <br />
-
-
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
-  </a>
-
-  <br /> <br />
-
 
   <img src="https://komarev.com/ghpvc/?username=yash990-bit&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
