@@ -32,7 +32,7 @@
 
   <h2>🛠️ Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,nodejs,express,mysql,mongodb,python,git,figma,postman&perline=7" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,nodejs,express,mysql,mongodb,python,git,figma,notion,postman&perline=7" />
   </a>
 
   <br /> <br />
