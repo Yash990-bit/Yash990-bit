@@ -7,7 +7,7 @@
 
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Building+Aesthetic+Web+Apps;Solving+Complex+Problems;Exploring+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Aesthetic+Web+Apps;Solving+Complex+Problems;Exploring+Gen-AI;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br />
@@ -55,6 +55,27 @@
     <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/output/pacman-contribution-graph.svg">
   </picture>
   
+  <br /> <br />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <br /> <br />
+
+  <a href="https://github.com/yash990-bit/yash990-bit">
+    <img src="https://github-profile-3d-contrib.vercel.app/api?username=yash990-bit&theme=dark" alt="3D Contribution Graph" />
+  </a>
+
+  <br /> <br />
+
+
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
+  </a>
+
   <br /> <br />
 
   <img src="https://komarev.com/ghpvc/?username=yash990-bit&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
