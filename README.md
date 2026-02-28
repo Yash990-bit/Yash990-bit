@@ -55,26 +55,11 @@
     <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/output/pacman-contribution-graph.svg">
   </picture>
   
-  <br /> <br />
-
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/main/profile-3d-contrib/profile-green-light.svg">
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/main/profile-3d-contrib/profile-night-rainbow.svg">
   </picture>
-
-  <br /> <br />
-
-  <a href="https://github.com/yash990-bit/yash990-bit">
-    <img src="https://github-profile-3d-contrib.vercel.app/api?username=yash990-bit&theme=dark" alt="3D Contribution Graph" />
-  </a>
-
-  <br /> <br />
-
-
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
-  </a>
 
   <br /> <br />
 
