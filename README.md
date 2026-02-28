@@ -55,12 +55,6 @@
     <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/output/pacman-contribution-graph.svg">
   </picture>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/main/profile-3d-contrib/profile-green-light.svg">
-    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/main/profile-3d-contrib/profile-night-rainbow.svg">
-  </picture>
-
   <br /> <br />
 
   <img src="https://komarev.com/ghpvc/?username=yash990-bit&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
