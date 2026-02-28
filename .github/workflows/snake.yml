@@ -18,8 +18,10 @@ jobs:
     
     steps:
       - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk/github-interaction-graph@v3
+        uses: Platane/snk@v3
         with:
+          # github user name to read the contribution graph from (**required**)
+          # using a separator of `,` for multiple users
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
