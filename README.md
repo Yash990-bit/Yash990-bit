@@ -49,7 +49,7 @@
   <br /> <br />
 
   <a href="https://www.thegitcity.com/dev/yash990-bit">
-    <img src="https://www.thegitcity.com/api/share/yash990-bit" alt="Git City" />
+    <img src="https://www.thegitcity.com/api/share-card/yash990-bit?format=landscape&lang=en" alt="Git City" />
   </a>
 
   <br /> <br />
