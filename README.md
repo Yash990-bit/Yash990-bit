@@ -48,6 +48,12 @@
 
   <br /> <br />
 
+  <a href="https://www.thegitcity.com/dev/yash990-bit">
+    <img src="https://www.thegitcity.com/api/share/yash990-bit" alt="Git City" />
+  </a>
+
+  <br /> <br />
+
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash990-bit/Yash990-bit/output/pacman-contribution-graph-dark.svg">
