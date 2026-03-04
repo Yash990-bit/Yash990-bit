@@ -27,7 +27,13 @@
     <a href="https://leetcode.com/u/yash_ragh_08/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   </p>
 
-  <br />
+  <br /> <br />
+
+  <a href="https://www.thegitcity.com/?ref=yash990-bit">
+    <img src="https://www.thegitcity.com/api/share-card/yash990-bit?format=landscape&lang=en" alt="Git City" />
+  </a>
+
+  <br /> <br />
 
 
   <h2>🛠️ Tech Stack</h2>
@@ -45,12 +51,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash990-bit&theme=dracula&hide_border=true&background=282a36" alt="Streak" />
   <br />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=yash990-bit&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&bg_color=282a36" alt="Languages" />
-
-  <br /> <br />
-
-  <a href="https://www.thegitcity.com/dev/yash990-bit">
-    <img src="https://www.thegitcity.com/api/share-card/yash990-bit?format=landscape&lang=en" alt="Git City" />
-  </a>
 
   <br /> <br />
 
