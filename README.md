@@ -1,13 +1,13 @@
 <div align="center">
   
 
-  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Yash%20Raghubanshi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=65&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Yash%20Raghubanshi&fontSize=80&animation=fadeIn&fontAl" alt="Header" />
 
   <br /> <br />
 
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Aesthetic+Web+Apps;Solving+Complex+Problems;Exploring+Gen-AI;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Machine+Learning+Engineer;Building+Intelligent+Systems;Python+%7C+Data+Science+%7C+Deep+Learning;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br />
