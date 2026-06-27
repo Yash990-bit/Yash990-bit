@@ -7,13 +7,13 @@
 
 
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Machine+Learning+Engineer;Building+Intelligent+Systems;Python+%7C+Data+Science+%7C+Deep+Learning;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Machine+Learning+Engineer;Building+Intelligent+Systems;Python+%7C+Data+Science+%7C+Deep+Learning;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
   <br />
 
   <p>
-    I am a passionate <b>Full Stack Developer</b> crafting beautiful and functional user interfaces.
+    I am a passionate <b>AI/ML Engineer</b> crafting beautiful and functional user interfaces.
   </p>
   
   <p>
